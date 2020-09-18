@@ -1,0 +1,19 @@
+{
+  "name": "front-end-specialization",
+  "version": "1.0.0",
+  "description": "Specialization course 1",
+  "main": "./Bootstrap/Bootstrap/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TruDameon/Front-end-specialization.git"
+  },
+  "author": "Dameon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TruDameon/Front-end-specialization/issues"
+  },
+  "homepage": "https://github.com/TruDameon/Front-end-specialization#readme"
+}
