@@ -2,7 +2,7 @@
   "name": "front-end-specialization",
   "version": "1.0.0",
   "description": "Specialization course 1",
-  "main": "./Bootstrap/Bootstrap/index.html",
+  "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -16,9 +16,5 @@
     "url": "https://github.com/TruDameon/Front-end-specialization/issues"
   },
   "homepage": "https://github.com/TruDameon/Front-end-specialization#readme",
-  "dependencies": {
-    "bootstrap": "^4.5.2",
-    "jquery": "^3.5.1",
-    "popper.js": "^1.16.1"
-  }
+  "dependencies": {}
 }
